@@ -1,0 +1,27 @@
+Comandes:
+1.
+  - git branch branca00
+  - git checkout branca00
+  - git status
+  
+5.
+  - git checkout main
+  - git status
+  - git log
+
+7.
+  - git checkout branca00
+ 
+10b.
+  - git merge branca00
+12.
+  - git push -u origin main
+14a.
+  - git push -u origin branca01
+
+Respostes:
+5. No es mostra el commit fet a branca00
+6. No, perqué aquella linia s'ha guardat a branca00
+7. Si, perque he tornat a la branca00
+12c. Perque s'ha fet nomes git push -u origin main, en cas de voler pujar la branca00 s'hauria de fer git push -u origin branca00
+14c. 1 commit
